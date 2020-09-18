@@ -1,0 +1,35 @@
+body {
+  overflow: hidden;
+  background-color: #1a1919;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  overflow: hidden;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html {
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: "MaisonNeue-Bold";
+  src: url("./fonts/MaisonNeue-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "MaisonNeue-Demi";
+  src: url("./fonts/MaisonNeue-Demi.woff") format("woff");
+}
+
+@font-face {
+  font-family: "MaisonNeue-Book";
+  src: url("./fonts/MaisonNeue-Book.woff") format("woff");
+}
